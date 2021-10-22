@@ -1,0 +1,18 @@
+﻿configure_file ("sonicBack.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("helpBackground.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background1.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background2.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("background3.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("backgroundOptions.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("buttonsSpriteSheet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("playerSpriteSheet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("objectsSpriteSheet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("enemySheet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("bossSpriteSheet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("gameOverMsg.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("YouWon.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("pause.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("empty.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("sansation.ttf" ${CMAKE_BINARY_DIR}/resources COPYONLY)
