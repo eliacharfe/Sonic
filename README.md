@@ -9,7 +9,7 @@ Project OOP2
 
 הסבר כללי:
 
-נממש את המשחק Sonic
+מימוש המשחק Sonic
 
 סוניק הוא משחק פלטפורמה בו השחקן אינו יכול לחזור אחורה. המשחק מבוסס על מהירות ,
  בעל מפה גדולה יותר מן המוצג. על השחקן לעבור סדרת מכשולים ואויבים תוך שימוש בכללי
@@ -114,6 +114,20 @@ map< TypeImage, sf::Texture > m_mapTexture;
 
 ב Collision (מולטי-מטוד):
 std::map<Key, HitFunctionPtr>;
+
+
+
+Methods used: 
+•	Inheritance and Polymorphism
+•	Smart pointers
+•	Multi-Methods
+•	Singletons
+•	Design patterns, Factories
+•	Iterators
+•	Exceptions
+•	Move-semantics
+•	Sprite Sheets, map and more
+
 
 פורמט הקובץ:
 
